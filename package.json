@@ -150,7 +150,7 @@
     "moment": "^2.29.4",
     "prop-types": "^15.7.2",
     "randombytes": "^2.1.0",
-    "rc-drawer": "^4.4.3",
+    "rc-drawer": "^6.1.5",
     "react-is": "^17.0.2",
     "react-router": "^5.2.0",
     "rebass": "^4.0.7",
